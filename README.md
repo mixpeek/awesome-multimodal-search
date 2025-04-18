@@ -16,6 +16,7 @@ A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 be
 - [📖 Landmark Papers](#-landmark-papers)
 - [📊 Benchmarks & Leaderboards](#-benchmarks--leaderboards)
 - [📚 Tutorials & Demos](#-tutorials--demos)
+- [📰 Multimodal Monday Blog Posts](#-multimodal-monday-blog-posts)
 
 ---
 
@@ -122,6 +123,16 @@ A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 be
 | **Vespa Image Search Tutorial** | Image similarity | [Tutorial](https://docs.vespa.ai/en/tutorials/text-image-search.html) |
 | **ImageBind Zero-Shot Classification** | All modalities | [Colab](https://github.com/facebookresearch/ImageBind/blob/main/notebooks/image-bind-zero-shot.ipynb) |
 | **Haystack Multimodal Pipelines** | Text, Image, Audio | [Tutorial](https://haystack.deepset.ai/tutorials/24_multimedia_retrieval) |
+
+---
+
+## 📰 Multimodal Monday Blog Posts
+
+| Title | Date | Author | Summary | Link |
+|-------|------|--------|---------|------|
+| **Multimodal Monday #3 — Scaling Multimodal AI: Laws, Lightweights & Large Releases** | Apr 14, 2025 | Philip Bankier | Apple's new scaling law research redefines how multimodal models are built, while Moonshot and OpenGVLab drop powerful open-source VLMs with reasoning and tool-use. | [Read More](https://mixpeek.com/blog/multimodal-monday-3-scaling-multimodal-ai-laws-lightweights-large-releases) |
+| **Multimodal Monday #2 — From Tiny VLMs to 10M‑Token Titans** | Apr 6, 2025 | Ethan Steininger | Major multimodal model releases including Meta's Llama 4 Scout & Maverick and Microsoft's Phi-4-Multimodal, marking the start of a new era of natively multimodal AI. | [Read More](https://mixpeek.com/blog/multimodal-monday-from-tiny-vlms-to-10m-token-titans) |
+| **Multimodal Monday #1 - State of the Stack** | - | - | Researchers introducing new methods to replace embeddings with discrete IDs for faster cross-modal search. | [Read More](https://mixpeek.com/blog/multimodal-monday-state-of-the-stack) |
 
 ---
 
