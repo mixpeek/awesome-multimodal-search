@@ -47,7 +47,7 @@ A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 be
 | **Vertex AI (Google)** | Image + Text | [Docs](https://cloud.google.com/vertex-ai/docs/matching-engine/overview) | CoCa model embeddings |
 | **AWS Rekognition + Kendra + Transcribe** | Image, text, audio | [Rekognition](https://aws.amazon.com/rekognition) · [Kendra](https://aws.amazon.com/kendra) | Modular pipeline for multimodal search |
 | **Pinecone** | Vector database supporting text, image, audio embeddings | [Website](https://www.pinecone.io) | Hybrid search with metadata filtering |
-| **Mixpeek** | Production-ready multimodal search API | [Website](https://mixpeek.com) | Simplified embedding generation and search |
+| **Mixpeek** | Text, image, video, audio, PDF, time series, tabular | [Website](https://mixpeek.com) · [Docs](https://mixpeek.com/docs) | Multimodal data warehouse with 25+ specialized feature extractors (face grouping, object tracking, scene detection, etc.), automatic model upgrades, and cross-modal correlation capabilities |
 | **Microsoft Azure AI Search** | Text, images, PDFs, audio transcription | [Docs](https://learn.microsoft.com/en-us/azure/search/) | Cognitive search capabilities |
 | **Anthropic Claude API** | Text + image understanding | [Docs](https://docs.anthropic.com) | Claude 3 Opus/Sonnet/Haiku models |
 | **Cohere** | Text embeddings with multilingual support | [Website](https://cohere.com) | Embed, Rerank, and Generate APIs |
