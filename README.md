@@ -108,6 +108,7 @@ A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 be
 |-------|----------|-------|
 | **ImageBind + Deep Lake** | Unified search | [Tutorial](https://docs.deeplake.ai/en/latest/deeplake/imagebind.html) |
 | **Pinecone + CLIP** | Text–Image | [Blog](https://www.pinecone.io/learn/multimodal-search/) |
+| **Mixpeek Reverse Video Search** | Video-Video | [Tutorial](https://mixpeek.com/blog/reverse-video-search/) |
 | **Jina Hello Multimodal** | Text + Image | [Code](https://github.com/jina-ai/jina) |
 | **RAG + CLIP + OpenAI** | Multimodal RAG | [Colab](https://platform.openai.com/examples) |
 | **LangChain Multimodal RAG** | Text, Image, Video | [Tutorial](https://python.langchain.com/docs/use_cases/multimodal_rag/) |
