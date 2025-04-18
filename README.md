@@ -2,6 +2,8 @@
 
 A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 benchmarks, and 📚 tutorials focused on **Multimodal Search** — enabling semantic retrieval across images, video, audio, and documents.
 
+> 📢 **Stay updated on multimodal search trends!** [Subscribe to the Mixpeek newsletter](https://mixpeek.com/blog) for the latest developments in multimodal AI.
+
 <p align="center">
   <img src="./hero.png" width="75%" alt="Awesome Multimodal Search Banner">
 </p>
