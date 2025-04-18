@@ -1,9 +1,9 @@
-# Awesome-Multimodal-Search
+# Awesome Multimodal Search
 
 A curated collection of 🔍 libraries, ☁️ platforms, 📖 research, 📊 benchmarks, and 📚 tutorials focused on **Multimodal Search** — enabling semantic retrieval across images, video, audio, and documents.
 
 <p align="center">
-  <img src="./hero.png" width="100%" alt="Awesome Multimodal Search Banner">
+  <img src="./hero.png" width="75%" alt="Awesome Multimodal Search Banner">
 </p>
 
 
